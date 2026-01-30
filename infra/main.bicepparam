@@ -4,7 +4,7 @@ param location = 'centralindia'
 param environment = 'production'
 param alertEmailAddresses = [
   // Add your email addresses here
-  // 'partner@example.com'
+  'salesmadeeasyforyou@gmail.com'
   // 'yash@example.com'
 ]
 param openaiTpmRateLimit = 80
